@@ -2,6 +2,6 @@
 
 This is my very first repository on GitHub!
 
-**Author:** [Your Full Name]
+**Author:** [Bella Fisicaro]
 **Date Created:** October 29, 2025
 **Purpose:** Practicing GitHub basics, including creating a repository and a README file.
